@@ -199,7 +199,7 @@ h3 {
 }
 
 .skill-category li::before {
-    content: "7";
+    content: "•";
     position: absolute;
     left: 0;
     color: var(--primary-color);
