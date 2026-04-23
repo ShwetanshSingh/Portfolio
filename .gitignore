@@ -1,3 +1,4 @@
 # doc files
 *.docx
 *.md
+node_modules/
